@@ -16,4 +16,3 @@
   - Conncet to other peers through TCP and allow other peers connect by listening to certain ports
   - Encode messages into handshake, choke, unchoke, interested, not interested, have, bitfield, request, piece, and cancel messages according to the official document.
 
-#### Usage
